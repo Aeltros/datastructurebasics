@@ -1,1 +1,1 @@
-# datastructurebasics
+# algorithms and basic data structures
